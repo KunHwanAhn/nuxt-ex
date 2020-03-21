@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-ex",
+  "version": "0.0.1",
+  "description": "nuxt.js sample repository",
+  "main": "src/index.js",
+  "repository": "https://github.com/KunHwanAhn/nuxt-ex",
+  "author": "Conan Kunhwan Ahn <kunhwon@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
