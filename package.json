@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "dev": "nuxt"
+    "dev": "nuxt --spa"
   },
   "dependencies": {
     "nuxt": "^2.12.0"
